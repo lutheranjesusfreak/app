@@ -1,6 +1,6 @@
-import NavButton from './NavButton';
+import NavButton from './navButton';
 
-function Navbar() {
+export default function Navbar() {
   return (
     <div className="flex">
       <NavButton url="./" label="Home" />
@@ -10,5 +10,3 @@ function Navbar() {
     </div>
   );
 }
-
-export default Navbar;

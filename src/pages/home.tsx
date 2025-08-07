@@ -1,4 +1,4 @@
-function App() {
+export default function HomePage() {
 
   return (
     <>
@@ -6,5 +6,3 @@ function App() {
     </>
   );
 }
-
-export default App;
