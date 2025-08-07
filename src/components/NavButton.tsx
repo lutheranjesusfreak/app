@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 interface NavButtonProps {
   url: string;
   search: string;
@@ -7,9 +9,9 @@ interface NavButtonProps {
 function NavButton(props: NavButtonProps) {
   const href = `${props.url}${props.search}`;
   return (
-    <a href={href} className="p-2 m-2 hover:text-gray-500 transition-colors">
+    <Link to={href} className="p-2 m-2 hover:text-gray-500 transition-colors">
       {props.label}
-    </a>
+    </Link>
   );
 }
 

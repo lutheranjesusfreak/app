@@ -1,21 +1,19 @@
 import { useEffect, useState } from 'react';
-import queryString from 'query-string';
+import { useParams } from 'react-router-dom';
 
 function App() {
-  const [currentTab, setCurrentTab] = useState('home');
+  const { currentTab } = useParams();
+  const [ count, setCount ] = useState(0);
 
   useEffect(() => {
-    const parsed = queryString.parse(window.location.search);
-    const tab = parsed.currentTab;
-    if (typeof tab === 'string') {
-      setCurrentTab(tab);
-    }
-  }, []);
+    setCount(count + 1);
+  }, [currentTab]);
 
   return (
     <>
       <h1>Daily Lectionary</h1>
-      <h2>{currentTab}</h2>
+      <h2>Tab: {currentTab}</h2>
+      <h2>{count}</h2>
     </>
   );
 }
