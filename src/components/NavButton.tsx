@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 interface NavButtonProps {
   url: string;
@@ -7,8 +7,8 @@ interface NavButtonProps {
 
 export default function NavButton(props: NavButtonProps) {
   return (
-    <Link to={props.url} className="p-2 m-2 hover:text-gray-500 transition-colors">
+    <NavLink to={props.url} className="p-2 m-2 hover:text-gray-500 transition-colors">
       {props.label}
-    </Link>
+    </NavLink>
   );
 }

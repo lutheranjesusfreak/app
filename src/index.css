@@ -17,6 +17,10 @@ body {
   background-color: #242424;
 }
 
+a.active {
+  text-decoration: underline;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
