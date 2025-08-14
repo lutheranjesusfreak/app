@@ -1,19 +1,21 @@
 import type { CalendarData } from '../types/calendarData';
 
 export async function getCalendarData(): Promise<CalendarData> {
-  const apiCalendarBase = `https://calapi.inadiutorium.cz/api/v0/en/calendars/default/`;
+  const apiCalendarBase = `https://api.dailyoffice2019.com/api/v1/calendar/`;
   const currentDate = new Date();
-  const dateStrings = [ currentDate.getFullYear(), currentDate.getMonth() + 1 , currentDate.getDate() ];
   let calenderData = {};
-  await fetch(apiCalendarBase + dateStrings.join('/'))
+  await fetch(apiCalendarBase + currentDate.toISOString().substring(0, 10))
   .then(response => {
+    if (!response.ok) return {'error': `Error ${response.status}`};
     return response.json();
   })
   .then(data => {
     calenderData = data;
   })
   .catch(error => {
-    calenderData = error;
+    const errorMessage = `${error.name}: ${error.message}`;
+    console.error(errorMessage);
+    calenderData = {'error': errorMessage};
   });
   return calenderData;
 };

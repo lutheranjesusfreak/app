@@ -22,11 +22,16 @@ export default function HomePage() {
       {isLoading && (
         <h2>Loading...</h2>
       )}
-      {!isLoading && calendarData.celebrations && (
+      {!isLoading && (
         <>
-          {calendarData.celebrations.map((item, index) => (
-            <h2 key={index}>{item.title}</h2>
-          ))}
+          <h2>{calendarData.primary_feast}</h2>
+          <h2>{calendarData.primary_color}</h2>
+          {calendarData.primary_feast != calendarData.primary_evening_feast && (
+            <>
+              <h2>{calendarData.primary_evening_feast}</h2>
+              <h2>{calendarData.primary_evening_color}</h2>
+            </>
+          )}
         </>
       )}
       {calendarData.error && (

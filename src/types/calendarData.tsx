@@ -1,15 +1,16 @@
 export interface CalendarData {
   date?: string,
-  season?: string,
-  season_week?: number,
-  celebrations?: Celebration[],
-  weekday?: string,
+  season?: Season,
+  primary_color?: string,
+  primary_evening_color?: string,
+  primary_feast?: string,
+  primary_evening_feast?: string,
+  major_feast?: string,
+  major_or_minor_feast?: string,
   error?: string
 };
 
-export interface Celebration {
-  title: string,
-  colour: string,
-  rank: string,
-  rank_num: number
+export interface Season {
+  name: string,
+  colors: string[]
 };
