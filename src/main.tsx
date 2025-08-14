@@ -10,14 +10,12 @@ import NotFoundPage from './pages/notFound';
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <HashRouter>
-      <div className="container mx-auto">
         <Navbar />
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
-      </div>
     </HashRouter>
   </StrictMode>
 );
