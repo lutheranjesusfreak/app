@@ -1,7 +1,7 @@
 import type { CalendarData } from '../types/calendarData';
 
 export async function getCalendarData(): Promise<CalendarData> {
-  const apiCalendarBase = `http://calapi.inadiutorium.cz/api/v0/en/calendars/default/`;
+  const apiCalendarBase = `https://calapi.inadiutorium.cz/api/v0/en/calendars/default/`;
   const currentDate = new Date();
   const dateStrings = [ currentDate.getFullYear(), currentDate.getMonth() + 1 , currentDate.getDate() ];
   let calenderData = {};
