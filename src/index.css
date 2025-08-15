@@ -21,10 +21,8 @@ a.active {
   text-decoration: underline;
 }
 
-@media (hover: hover) {
-  .hover-nav:hover {
-    color: #6B7280; /* gray-500 */
-  }
+.nav-color.active {
+  color: rgba(255, 255, 255, 0.87);
 }
 
 @media (prefers-color-scheme: light) {
@@ -34,5 +32,9 @@ a.active {
 
   body {
     background-color: #ffffff;
+  }
+
+  .nav-color {
+  color: #213547;
   }
 }
