@@ -7,7 +7,7 @@ interface NavButtonProps {
 
 export default function NavButton(props: NavButtonProps) {
   return (
-    <NavLink to={props.url} className="p-2 m-2 hover:text-gray-500 transition-colors">
+    <NavLink to={props.url} className="p-2 m-2 hover-nav transition-colors">
       {props.label}
     </NavLink>
   );
