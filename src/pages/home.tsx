@@ -7,13 +7,22 @@ export default function HomePage() {
   const [calendarData, setCalendarData] = useState<CalendarData>({});
 
   useEffect(() => {
-    getCalendarData()
-    .then(data => {
-      setCalendarData(data);
-    })
-    .finally(() => {
+    const savedCalendar = localStorage.getItem('calendarData');
+    const date = new Date();
+    const dateString = `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')}`;
+    if (!savedCalendar || JSON.parse(savedCalendar).date !== dateString) {
+      getCalendarData()
+      .then(data => {
+        setCalendarData(data);
+        localStorage.setItem('calendarData', JSON.stringify(data));
+      })
+      .finally(() => {
+        setIsLoading(false);
+      });    
+    } else {
+      setCalendarData(JSON.parse(savedCalendar));
       setIsLoading(false);
-    });
+    }
   }, []);
 
   return (

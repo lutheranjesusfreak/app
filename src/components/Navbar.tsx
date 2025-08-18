@@ -1,4 +1,4 @@
-import NavButton from './navButton';
+import NavButton from './NavButton';
 
 export default function Navbar() {
   return (
