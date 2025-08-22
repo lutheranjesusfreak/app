@@ -18,7 +18,7 @@ export default function HomePage() {
 
   return (
     <>
-      <h1>Daily Lectionary</h1>
+      <h1>Daily Lectionary Home Page</h1>
       {isLoading && (
         <h2>Loading...</h2>
       )}
