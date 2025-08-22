@@ -1,0 +1,114 @@
+{
+  "season": "Season After Pentecost",
+  "data": [
+    {
+      "date": "05-18",
+      "scripture": [
+        {
+          "label": "Song 1:1-2:7",
+          "book": 22,
+          "chapters": [1, 2],
+          "verses": [[1, 0], [1, 7]],
+          "optional": false
+        },
+        {
+          "label": "John 5:1-18",
+          "book": 43,
+          "chapters": [5],
+          "verses": [[1, 18]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "08-19",
+      "scripture": [
+        {
+          "label": "2 Sam 11:1-27",
+          "book": 10,
+          "chapters": [11],
+          "verses": [[1, 27]],
+          "optional": false
+        },
+        {
+          "label": "1 Cor 10:23-11:16",
+          "book": 46,
+          "chapters": [10, 11],
+          "verses": [[23, 0], [1, 16]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "08-20",
+      "scripture": [
+        {
+          "label": "2 Sam 12:1-25",
+          "book": 10,
+          "chapters": [12],
+          "verses": [[1, 25]],
+          "optional": false
+        },
+        {
+          "label": "2 Sam 13:1-19:43",
+          "book": 10,
+          "chapters": [13, 14, 15, 16, 17, 18, 19],
+          "verses": [[1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 43]],
+          "optional": true
+        },
+        {
+          "label": "1 Cor 12:1-13",
+          "book": 46,
+          "chapters": [12],
+          "verses": [[1, 13]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "08-21",
+      "scripture": [
+        {
+          "label": "1 Kings 1:1-4, 15-35",
+          "book": 11,
+          "chapters": [1, 0],
+          "verses": [[1, 4], [15, 35]],
+          "optional": false
+        },
+        {
+          "label": "1 Cor 12:14-31",
+          "book": 46,
+          "chapters": [12],
+          "verses": [[14, 31]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "08-22",
+      "scripture": [
+        {
+          "label": "1 Kings 2:1-27",
+          "book": 11,
+          "chapters": [2],
+          "verses": [[1, 27]],
+          "optional": false
+        },
+        {
+          "label": "1 Cor 14:1-16:24",
+          "book": 46,
+          "chapters": [14, 15, 16],
+          "verses": [[1, 0], [1, 0], [1, 24]],
+          "optional": true
+        },
+        {
+          "label": "1 Cor 13:1-13",
+          "book": 46,
+          "chapters": [13],
+          "verses": [[1, 13]],
+          "optional": false
+        }
+      ]
+    }
+  ]
+}
