@@ -5,8 +5,9 @@ export interface ReadingPlan {
 };
 
 export interface Reading {
-  date: string,
-  scripture: Scripture[]
+  date?: string,
+  scripture?: Scripture[],
+  error?: string
 };
 
 export interface Scripture {
@@ -15,4 +16,4 @@ export interface Scripture {
   chapters: number[],
   verses: number[][],
   optional: boolean
-}
+};

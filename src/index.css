@@ -34,7 +34,7 @@ a.active {
     background-color: #ffffff;
   }
 
-  .nav-color {
-  color: #213547;
+  .nav-color.active {
+    color: #213547;
   }
 }

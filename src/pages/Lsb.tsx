@@ -1,18 +1,18 @@
 import { useState, useEffect } from 'react';
 import { getFromLocalStorage } from '../utils/getFromLocalStorage';
-//import type { CalendarData } from '../types/calendarData';
-import type { ReadingPlan } from '../types/readingPlan';
+import type { CalendarData } from '../types/calendarData';
+import type { Passage } from '../types/passage';
 
 export default function HomePage() {
   const [isLoading, setIsLoading] = useState(true);
-  //const [calendarData, setCalendarData] = useState<CalendarData>({});
-  const [readingPlan, setReadingPlan] = useState<ReadingPlan>({});
+  const [calendarData, setCalendarData] = useState<CalendarData>({});
+  const [passages, setPassages] = useState<Passage[]>([]);
 
   useEffect(() => {
     getFromLocalStorage()
     .then(() => {
-      //setCalendarData(JSON.parse(localStorage.getItem('calendarData') ?? '{}'));
-      setReadingPlan(JSON.parse(localStorage.getItem('readingPlan') ?? '{}'));
+      setCalendarData(JSON.parse(localStorage.getItem('calendarData') ?? '{}'));
+      setPassages(JSON.parse(localStorage.getItem('passages') ?? '{}'));
     })
     .finally(() => {
       setIsLoading(false);
@@ -27,11 +27,32 @@ export default function HomePage() {
       )}
       {!isLoading && (
         <>
-          <h2>{readingPlan.season}</h2>
+          <h2>{calendarData.date}</h2>
+          {passages?.map((passage, pid) => {
+            return (
+              <>
+                <h2 key={pid} className="font-bold text-center">{passage.label}</h2>
+                {passage.optional && (<h2 className="font-bold text-center">(Optional)</h2>)}
+                <table>
+                {passage.chapters.map((chapter) => {
+                  return(
+                    <>
+                      {chapter.verses.map((verse, vid) => {
+                        return(
+                          <tr key={vid}>
+                            <td className="align-top min-w-8">{verse.verse}</td>
+                            <td>{verse.text}</td>
+                          </tr>
+                        )
+                      })}
+                    </>
+                  )
+                })}
+                </table>
+              </>
+            )
+          })}
         </>
-      )}
-      {readingPlan.error && (
-        <h2>{readingPlan.error}</h2>
       )}
     </>
   );
