@@ -31,10 +31,8 @@ export async function getCalendarData(dateString: string): Promise<CalendarData>
   } as CalendarData;
 }
 
-export async function getReadingPlan(season: string): Promise<ReadingPlan> {
+export async function getReadingPlan(seasonSlug: string): Promise<ReadingPlan> {
   const apiBase = `${import.meta.env.BASE_URL}api/`;
-  console.log(season);
-  const seasonSlug = 'ordinary-time';
   let readingPlan = {} as ReadingPlan;
   await fetch(apiBase + seasonSlug + '.json')
   .then(response => {

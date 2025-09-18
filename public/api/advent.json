@@ -1,0 +1,95 @@
+{
+  "season": "Advent",
+  "data": [
+    {
+      "date": "11-27",
+      "scripture": [
+        {
+          "label": "Isaiah 1:1-28",
+          "book": 23,
+          "chapters": [1],
+          "verses": [[1, 28]],
+          "optional": false
+        },
+        {
+          "label": "1 Peter 1:1-12",
+          "book": 60,
+          "chapters": [1],
+          "verses": [[1, 12]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-28",
+      "scripture": [
+        {
+          "label": "Isaiah 2:1-22",
+          "book": 23,
+          "chapters": [2],
+          "verses": [[1, 22]],
+          "optional": false
+        },
+        {
+          "label": "Isaiah 3:1-4:6",
+          "book": 23,
+          "chapters": [3, 4],
+          "verses": [[1, 0], [1, 6]],
+          "optional": true
+        },
+        {
+          "label": "1 Peter 1:13-25",
+          "book": 60,
+          "chapters": [1],
+          "verses": [[13, 25]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-29",
+      "scripture": [
+        {
+          "label": "Isaiah 5:1-25",
+          "book": 23,
+          "chapters": [5],
+          "verses": [[1, 25]],
+          "optional": false
+        },
+        {
+          "label": "Amos 1:1-9:15",
+          "book": 30,
+          "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+          "verses": [[1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 15]],
+          "optional": true
+        },
+        {
+          "label": "1 Peter 2:1-12",
+          "book": 60,
+          "chapters": [2],
+          "verses": [[1, 12]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-30",
+      "scripture": [
+        {
+          "label": "Isaiah 6:1-7:9",
+          "book": 23,
+          "chapters": [6, 7],
+          "verses": [[1, 0], [1, 9]],
+          "optional": false
+        },
+        {
+          "label": "1 Peter 2:13-25",
+          "book": 60,
+          "chapters": [2],
+          "verses": [[13, 25]],
+          "optional": false
+        }
+      ]
+    }
+  ]
+}

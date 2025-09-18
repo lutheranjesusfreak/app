@@ -30,26 +30,26 @@ export default function HomePage() {
           <h2>{calendarData.date}</h2>
           {passages?.map((passage, pid) => {
             return (
-              <>
-                <h2 key={pid} className="font-bold text-center">{passage.label}</h2>
+              <div key={pid}>
+                <h2 className="font-bold text-center">{passage.label}</h2>
                 {passage.optional && (<h2 className="font-bold text-center">(Optional)</h2>)}
-                <table>
-                {passage.chapters.map((chapter) => {
+                {passage.chapters.map((chapter, cid) => {
                   return(
-                    <>
-                      {chapter.verses.map((verse, vid) => {
-                        return(
-                          <tr key={vid}>
-                            <td className="align-top min-w-8">{verse.verse}</td>
-                            <td>{verse.text}</td>
-                          </tr>
-                        )
-                      })}
-                    </>
+                    <table key={cid}>
+                      <tbody>
+                        {chapter.verses.map((verse, vid) => {
+                          return(
+                            <tr key={vid}>
+                              <td className="align-top min-w-8">{verse.verse}</td>
+                              <td>{verse.text}</td>
+                            </tr>
+                          )
+                        })}
+                      </tbody>
+                    </table>
                   )
                 })}
-                </table>
-              </>
+              </div>
             )
           })}
         </>

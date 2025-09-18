@@ -2941,6 +2941,1201 @@
           "optional": false
         }
       ]
+    },
+    {
+      "date": "10-01",
+      "scripture": [
+        {
+          "label": "Deuteronomy 2:16-37",
+          "book": 5,
+          "chapters": [2],
+          "verses": [[16, 37]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 6:16-34",
+          "book": 40,
+          "chapters": [6],
+          "verses": [[16, 34]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-02",
+      "scripture": [
+        {
+          "label": "Deuteronomy 3:1-29",
+          "book": 5,
+          "chapters": [3],
+          "verses": [[1, 29]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 7:1-12",
+          "book": 40,
+          "chapters": [7],
+          "verses": [[1, 12]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-03",
+      "scripture": [
+        {
+          "label": "Deuteronomy 4:1-20",
+          "book": 5,
+          "chapters": [4],
+          "verses": [[1, 20]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 7:13-29",
+          "book": 40,
+          "chapters": [7],
+          "verses": [[13, 29]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-04",
+      "scripture": [
+        {
+          "label": "Deuteronomy 4:21-40",
+          "book": 5,
+          "chapters": [4],
+          "verses": [[21, 40]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 8:1-17",
+          "book": 40,
+          "chapters": [8],
+          "verses": [[1, 17]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-05",
+      "scripture": [
+        {
+          "label": "Deuteronomy 5:1-21",
+          "book": 5,
+          "chapters": [5],
+          "verses": [[1, 21]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 8:18-34",
+          "book": 40,
+          "chapters": [8],
+          "verses": [[18, 34]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-06",
+      "scripture": [
+        {
+          "label": "Deuteronomy 5:22-6:9",
+          "book": 5,
+          "chapters": [5, 6],
+          "verses": [[22, 0], [1, 9]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 9:1-17",
+          "book": 40,
+          "chapters": [9],
+          "verses": [[1, 17]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-07",
+      "scripture": [
+        {
+          "label": "Deuteronomy 6:10-25",
+          "book": 5,
+          "chapters": [6],
+          "verses": [[10, 25]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 9:18-38",
+          "book": 40,
+          "chapters": [9],
+          "verses": [[18, 38]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-08",
+      "scripture": [
+        {
+          "label": "Deuteronomy 7:1-19",
+          "book": 5,
+          "chapters": [7],
+          "verses": [[1, 19]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 10:1-23",
+          "book": 40,
+          "chapters": [10],
+          "verses": [[1, 23]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-09",
+      "scripture": [
+        {
+          "label": "Deuteronomy 8:1-20",
+          "book": 5,
+          "chapters": [8],
+          "verses": [[1, 20]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 10:24-42",
+          "book": 40,
+          "chapters": [10],
+          "verses": [[24, 42]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-10",
+      "scripture": [
+        {
+          "label": "Deuteronomy 9:1-22",
+          "book": 5,
+          "chapters": [9],
+          "verses": [[1, 22]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 11:1-19",
+          "book": 40,
+          "chapters": [11],
+          "verses": [[1, 19]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-11",
+      "scripture": [
+        {
+          "label": "Deuteronomy 9:23-10:22",
+          "book": 5,
+          "chapters": [9, 10],
+          "verses": [[23, 0], [1, 22]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 11:20-30",
+          "book": 40,
+          "chapters": [11],
+          "verses": [[20, 30]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-12",
+      "scripture": [
+        {
+          "label": "Deuteronomy 11:1-25",
+          "book": 5,
+          "chapters": [11],
+          "verses": [[1, 25]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 12:1-21",
+          "book": 40,
+          "chapters": [12],
+          "verses": [[1, 21]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-13",
+      "scripture": [
+        {
+          "label": "Deuteronomy 11:26-12:12",
+          "book": 5,
+          "chapters": [11, 12],
+          "verses": [[26, 0], [1, 12]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 12:22-37",
+          "book": 40,
+          "chapters": [12],
+          "verses": [[22, 37]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-14",
+      "scripture": [
+        {
+          "label": "Deuteronomy 12:13-32",
+          "book": 5,
+          "chapters": [12],
+          "verses": [[13, 32]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 12:38-50",
+          "book": 40,
+          "chapters": [12],
+          "verses": [[38, 50]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-15",
+      "scripture": [
+        {
+          "label": "Deuteronomy 13:1-18",
+          "book": 5,
+          "chapters": [13],
+          "verses": [[1, 18]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 13:1-23",
+          "book": 40,
+          "chapters": [13],
+          "verses": [[1, 23]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-16",
+      "scripture": [
+        {
+          "label": "Deuteronomy 14:1-2",
+          "book": 5,
+          "chapters": [14],
+          "verses": [[1, 2]],
+          "optional": false
+        },
+        {
+          "label": "Deuteronomy 14:22-23",
+          "book": 5,
+          "chapters": [14],
+          "verses": [[22, 23]],
+          "optional": false
+        },
+        {
+          "label": "Deuteronomy 14:28-15:15",
+          "book": 5,
+          "chapters": [14, 15],
+          "verses": [[28, 0], [1, 15]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 13:24-43",
+          "book": 40,
+          "chapters": [13],
+          "verses": [[24, 43]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-17",
+      "scripture": [
+        {
+          "label": "Deuteronomy 15:19-16:22",
+          "book": 5,
+          "chapters": [15, 16],
+          "verses": [[19, 0], [1, 22]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 13:44-58",
+          "book": 40,
+          "chapters": [13],
+          "verses": [[44, 58]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-18",
+      "scripture": [
+        {
+          "label": "Deuteronomy 17:1-20",
+          "book": 5,
+          "chapters": [17],
+          "verses": [[1, 20]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 14:1-21",
+          "book": 40,
+          "chapters": [14],
+          "verses": [[1, 21]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-19",
+      "scripture": [
+        {
+          "label": "Deuteronomy 18:1-22",
+          "book": 5,
+          "chapters": [18],
+          "verses": [[1, 22]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 14:22-36",
+          "book": 40,
+          "chapters": [14],
+          "verses": [[22, 36]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-20",
+      "scripture": [
+        {
+          "label": "Deuteronomy 19:1-20",
+          "book": 5,
+          "chapters": [19],
+          "verses": [[1, 20]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 15:1-20",
+          "book": 40,
+          "chapters": [15],
+          "verses": [[1, 20]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-21",
+      "scripture": [
+        {
+          "label": "Deuteronomy 20:1-20",
+          "book": 5,
+          "chapters": [20],
+          "verses": [[1, 20]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 15:21-39",
+          "book": 40,
+          "chapters": [15],
+          "verses": [[21, 39]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-22",
+      "scripture": [
+        {
+          "label": "Deuteronomy 21:1-23",
+          "book": 5,
+          "chapters": [21],
+          "verses": [[1, 23]],
+          "optional": false
+        },
+        {
+          "label": "Deuteronomy 22:1-24:9",
+          "book": 5,
+          "chapters": [22, 23, 24],
+          "verses": [[1, 0], [1, 0], [1, 9]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 16:1-12",
+          "book": 40,
+          "chapters": [16],
+          "verses": [[1, 12]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-23",
+      "scripture": [
+        {
+          "label": "Deuteronomy 24:10-25:10",
+          "book": 5,
+          "chapters": [24, 25],
+          "verses": [[10, 0], [1, 10]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 16:13-28",
+          "book": 40,
+          "chapters": [16],
+          "verses": [[13, 28]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-24",
+      "scripture": [
+        {
+          "label": "Deuteronomy 25:17-26:19",
+          "book": 5,
+          "chapters": [25, 26],
+          "verses": [[17, 0], [1, 19]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 17:1-13",
+          "book": 40,
+          "chapters": [17],
+          "verses": [[1, 13]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-25",
+      "scripture": [
+        {
+          "label": "Deuteronomy 27:1-26",
+          "book": 5,
+          "chapters": [27],
+          "verses": [[1, 26]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 17:14-27",
+          "book": 40,
+          "chapters": [17],
+          "verses": [[14, 27]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-26",
+      "scripture": [
+        {
+          "label": "Deuteronomy 28:1-22",
+          "book": 5,
+          "chapters": [28],
+          "verses": [[1, 22]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 18:1-20",
+          "book": 40,
+          "chapters": [18],
+          "verses": [[1, 20]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-27",
+      "scripture": [
+        {
+          "label": "Deuteronomy 29:1-29",
+          "book": 5,
+          "chapters": [29],
+          "verses": [[1, 29]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 18:21-35",
+          "book": 40,
+          "chapters": [18],
+          "verses": [[21, 35]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-28",
+      "scripture": [
+        {
+          "label": "Deuteronomy 30:1-20",
+          "book": 5,
+          "chapters": [30],
+          "verses": [[1, 20]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 19:1-15",
+          "book": 40,
+          "chapters": [19],
+          "verses": [[1, 15]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-29",
+      "scripture": [
+        {
+          "label": "Deuteronomy 31:1-29",
+          "book": 5,
+          "chapters": [31],
+          "verses": [[1, 29]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 19:16-30",
+          "book": 40,
+          "chapters": [19],
+          "verses": [[16, 30]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-30",
+      "scripture": [
+        {
+          "label": "Deuteronomy 31:30-32:27",
+          "book": 5,
+          "chapters": [31, 32],
+          "verses": [[30, 0], [1, 27]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 20:1-16",
+          "book": 40,
+          "chapters": [20],
+          "verses": [[1, 16]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "10-31",
+      "scripture": [
+        {
+          "label": "Deuteronomy 32:28-52",
+          "book": 5,
+          "chapters": [32],
+          "verses": [[28, 52]],
+          "optional": false
+        },
+        {
+          "label": "Deuteronomy 33:1-29",
+          "book": 5,
+          "chapters": [33],
+          "verses": [[1, 29]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 20:17-34",
+          "book": 40,
+          "chapters": [20],
+          "verses": [[17, 34]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-01",
+      "scripture": [
+        {
+          "label": "Deuteronomy 34:1-12",
+          "book": 5,
+          "chapters": [34],
+          "verses": [[1, 12]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 21:1-22",
+          "book": 40,
+          "chapters": [21],
+          "verses": [[1, 22]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-02",
+      "scripture": [
+        {
+          "label": "Jeremiah 1:1-19",
+          "book": 24,
+          "chapters": [1],
+          "verses": [[1, 19]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 21:23-46",
+          "book": 40,
+          "chapters": [21],
+          "verses": [[23, 46]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-03",
+      "scripture": [
+        {
+          "label": "Jeremiah 3:6-4:2",
+          "book": 24,
+          "chapters": [3, 4],
+          "verses": [[6, 0], [1, 2]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 22:1-22",
+          "book": 40,
+          "chapters": [22],
+          "verses": [[1, 22]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-04",
+      "scripture": [
+        {
+          "label": "Jeremiah 5:1-19",
+          "book": 24,
+          "chapters": [5],
+          "verses": [[1, 19]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 22:23-46",
+          "book": 40,
+          "chapters": [22],
+          "verses": [[23, 46]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-05",
+      "scripture": [
+        {
+          "label": "Jeremiah 7:1-29",
+          "book": 24,
+          "chapters": [7],
+          "verses": [[1, 29]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 23:1-12",
+          "book": 40,
+          "chapters": [23],
+          "verses": [[1, 12]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-06",
+      "scripture": [
+        {
+          "label": "Jeremiah 8:18-9:12",
+          "book": 24,
+          "chapters": [8, 9],
+          "verses": [[18, 0], [1, 12]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 23:13-39",
+          "book": 40,
+          "chapters": [23],
+          "verses": [[13, 39]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-07",
+      "scripture": [
+        {
+          "label": "Jeremiah 11:1-23",
+          "book": 24,
+          "chapters": [11],
+          "verses": [[1, 23]],
+          "optional": false
+        },
+        {
+          "label": "Jeremiah 12:1-19:5",
+          "book": 24,
+          "chapters": [12, 13, 14, 15, 16, 17, 18, 19],
+          "verses": [[1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 5]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 24:1-28",
+          "book": 40,
+          "chapters": [24],
+          "verses": [[1, 28]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-08",
+      "scripture": [
+        {
+          "label": "Jeremiah 20:1-18",
+          "book": 24,
+          "chapters": [20],
+          "verses": [[1, 18]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 24:29-51",
+          "book": 40,
+          "chapters": [24],
+          "verses": [[29, 51]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-09",
+      "scripture": [
+        {
+          "label": "Jeremiah 22:1-23",
+          "book": 24,
+          "chapters": [22],
+          "verses": [[1, 23]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 25:1-13",
+          "book": 40,
+          "chapters": [25],
+          "verses": [[1, 13]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-10",
+      "scripture": [
+        {
+          "label": "Jeremiah 23:1-20",
+          "book": 24,
+          "chapters": [23],
+          "verses": [[1, 20]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 25:14-30",
+          "book": 40,
+          "chapters": [25],
+          "verses": [[14, 30]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-11",
+      "scripture": [
+        {
+          "label": "Jeremiah 23:21-40",
+          "book": 24,
+          "chapters": [23],
+          "verses": [[21, 40]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 25:31-46",
+          "book": 40,
+          "chapters": [25],
+          "verses": [[31, 46]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-12",
+      "scripture": [
+        {
+          "label": "Jeremiah 25:1-18",
+          "book": 24,
+          "chapters": [25],
+          "verses": [[1, 18]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 26:1-19",
+          "book": 40,
+          "chapters": [26],
+          "verses": [[1, 19]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-13",
+      "scripture": [
+        {
+          "label": "Jeremiah 26:1-19",
+          "book": 24,
+          "chapters": [26],
+          "verses": [[1, 19]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 13:1-18",
+          "book": 66,
+          "chapters": [13],
+          "verses": [[1, 18]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 26:20-35",
+          "book": 40,
+          "chapters": [26],
+          "verses": [[20, 35]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-14",
+      "scripture": [
+        {
+          "label": "Jeremiah 29:1-19",
+          "book": 24,
+          "chapters": [29],
+          "verses": [[1, 19]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 14:1-20",
+          "book": 66,
+          "chapters": [14],
+          "verses": [[1, 20]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 26:36-56",
+          "book": 40,
+          "chapters": [26],
+          "verses": [[36, 56]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-15",
+      "scripture": [
+        {
+          "label": "Jeremiah 30:1-24",
+          "book": 24,
+          "chapters": [30],
+          "verses": [[1, 24]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 15:1-8",
+          "book": 66,
+          "chapters": [15],
+          "verses": [[1, 8]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 26:57-75",
+          "book": 40,
+          "chapters": [26],
+          "verses": [[57, 75]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-16",
+      "scripture": [
+        {
+          "label": "Jeremiah 31:1-17",
+          "book": 24,
+          "chapters": [31],
+          "verses": [[1, 17]],
+          "optional": false
+        },
+        {
+          "label": "Jeremiah 31:23-34",
+          "book": 24,
+          "chapters": [31],
+          "verses": [[23, 34]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 16:1-21",
+          "book": 66,
+          "chapters": [16],
+          "verses": [[1, 21]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 27:1-10",
+          "book": 40,
+          "chapters": [27],
+          "verses": [[1, 10]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-17",
+      "scripture": [
+        {
+          "label": "Jeremiah 33:1-22",
+          "book": 24,
+          "chapters": [33],
+          "verses": [[1, 22]],
+          "optional": false
+        },
+        {
+          "label": "Jeremiah 34:1-36:32",
+          "book": 24,
+          "chapters": [34, 35, 36],
+          "verses": [[1, 0], [1, 0], [1, 32]],
+          "optional": true
+        },
+        {
+          "label": "Jeremiah 45:1-51:64",
+          "book": 24,
+          "chapters": [45, 46, 47, 48, 49, 50, 51],
+          "verses": [[1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 64]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 27:11-32",
+          "book": 40,
+          "chapters": [27],
+          "verses": [[11, 32]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-18",
+      "scripture": [
+        {
+          "label": "Jeremiah 37:1-21",
+          "book": 24,
+          "chapters": [37],
+          "verses": [[1, 21]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 17:1-18",
+          "book": 66,
+          "chapters": [17],
+          "verses": [[1, 18]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 27:33-56",
+          "book": 40,
+          "chapters": [27],
+          "verses": [[33, 56]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-19",
+      "scripture": [
+        {
+          "label": "Jeremiah 38:1-28",
+          "book": 24,
+          "chapters": [38],
+          "verses": [[1, 28]],
+          "optional": false
+        },
+        {
+          "label": "Jeremiah 39:1-44:30",
+          "book": 24,
+          "chapters": [39, 40, 41, 42, 43, 44],
+          "verses": [[1, 0], [1, 0], [1, 0], [1, 0], [1, 0], [1, 30]],
+          "optional": true
+        },
+        {
+          "label": "Matthew 27:57-66",
+          "book": 40,
+          "chapters": [27],
+          "verses": [[57, 66]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-20",
+      "scripture": [
+        {
+          "label": "Daniel 1:1-21",
+          "book": 27,
+          "chapters": [1],
+          "verses": [[1, 21]],
+          "optional": false
+        },
+        {
+          "label": "Matthew 28:1-20",
+          "book": 40,
+          "chapters": [28],
+          "verses": [[1, 20]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-21",
+      "scripture": [
+        {
+          "label": "Daniel 2:1-23",
+          "book": 27,
+          "chapters": [2],
+          "verses": [[1, 23]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 18:1-24",
+          "book": 66,
+          "chapters": [18],
+          "verses": [[1, 24]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-22",
+      "scripture": [
+        {
+          "label": "Daniel 2:24-49",
+          "book": 27,
+          "chapters": [2],
+          "verses": [[24, 49]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 19:1-21",
+          "book": 66,
+          "chapters": [19],
+          "verses": [[1, 21]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-23",
+      "scripture": [
+        {
+          "label": "Daniel 3:1-30",
+          "book": 27,
+          "chapters": [3],
+          "verses": [[1, 30]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 20:1-15",
+          "book": 66,
+          "chapters": [20],
+          "verses": [[1, 15]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-24",
+      "scripture": [
+        {
+          "label": "Daniel 4:1-37",
+          "book": 27,
+          "chapters": [4],
+          "verses": [[1, 37]],
+          "optional": false
+        },
+        {
+          "label": "Revelation 21:1-8",
+          "book": 66,
+          "chapters": [21],
+          "verses": [[1, 8]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-25",
+      "scripture": [
+        {
+          "label": "Daniel 5:1-30",
+          "book": 27,
+          "chapters": [5],
+          "verses": [[1, 30]],
+          "optional": false
+        },
+        {
+          "label": "Daniel 7:1-8:27",
+          "book": 27,
+          "chapters": [7, 8],
+          "verses": [[1, 0], [1, 27]],
+          "optional": true
+        },
+        {
+          "label": "Revelation 21:9-27",
+          "book": 66,
+          "chapters": [21],
+          "verses": [[9, 27]],
+          "optional": false
+        }
+      ]
+    },
+    {
+      "date": "11-26",
+      "scripture": [
+        {
+          "label": "Daniel 6:1-28",
+          "book": 27,
+          "chapters": [6],
+          "verses": [[1, 28]],
+          "optional": false
+        },
+        {
+          "label": "Daniel 9:1-27",
+          "book": 27,
+          "chapters": [9],
+          "verses": [[1, 27]],
+          "optional": true
+        },
+        {
+          "label": "Revelation 22:1-21",
+          "book": 66,
+          "chapters": [22],
+          "verses": [[1, 21]],
+          "optional": false
+        }
+      ]
     }
   ]
 }
